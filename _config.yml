@@ -1,0 +1,14 @@
+layout_spectrum: 0.5444037
+typography_spectrum: 0.1083876
+color:
+  saturation: 0.8061261
+  lightness: 0.4328382
+  brandStrength: 0.3108626
+  rhythmicContrast: 0.6588277
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Rob Lee
